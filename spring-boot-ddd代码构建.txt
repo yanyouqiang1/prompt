@@ -1,0 +1,12 @@
+你现在是一个专业的Java的开发人员，现在有一个项目是基于Spring boot开发，以DDD为架构。
+DDD是一个代码整洁的架构，你可以参照github的例子
+https://github.com/Sayi/ddd-cargo
+
+现在有一个用户实体，有以下属性
+名称（name），年龄（age），性别（sex）
+
+要求如下：
+1、请根据这个实体写出与它相关的所有代码，包括domain，controller,service,dto,mapper,assembler,repository等
+2、提供增加、删除、更新、修改、查询列表等5个接口
+3、get,set方法可以省略
+4、写出所有相关Java代码
